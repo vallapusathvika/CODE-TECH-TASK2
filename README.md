@@ -30,3 +30,4 @@ The `main()` function is responsible for executing the entire process. It calls 
 
  **Conclusion**
 In summary, this code is implemented in a **Jupyter Notebook**, allowing users to interactively load, analyze, and visualize economic data. The use of **Pandas** for data manipulation, **Matplotlib** for plotting, and **FPDF** for PDF report generation makes the code a powerful tool for automated data analysis. The ability to display plots directly within the notebook and generate a professional PDF report at the end enhances the overall workflow, making it suitable for both analysis and presentation purposes. This approach provides a seamless way to analyze and communicate insights from the data while leveraging the interactive capabilities of a Jupyter Notebook.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/3e025af3-553d-4dce-adf1-5bc9d387aa3e)
