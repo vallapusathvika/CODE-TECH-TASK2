@@ -1,10 +1,16 @@
-# CODE-TECH-TASK2
+# CODTECH-TASK2
 COMPANY:CODTECH IT SOLUTIONS
+
 NAME:VALLAPU SATHVIKA
+
 INTERN ID:COD123
+
 DOMAIN:PYTHON PROGRAMMING
+
 DURATION:4 WEEKS
+
 MENTOR:NEELA SANTOSH
+
 **DESCRIPTION OF THE CODE***
 This Python code is designed to load, analyze, and visualize a dataset related to labour, capital, output, and wages, and then generate a comprehensive PDF report summarizing the findings. It is implemented using a **Jupyter Notebook**, which allows for interactive data analysis and visualization. The code utilizes several Python libraries, including **Pandas**, **Matplotlib**, **FPDF**, and **Seaborn**, to handle data, create visualizations, and generate the report.
 
